@@ -1,0 +1,33 @@
+{
+  "id": "3080bc30-85c9-4226-ac91-0022fb17ae2d",
+  "parentId": "5c8446ae-be16-45f5-a50b-9b4ab66adafc",
+  "rootParentId": "5c8446ae-be16-45f5-a50b-9b4ab66adafc",
+  "name": "whatareyou - custom",
+  "auto": true,
+  "contexts": [
+    "whatareyou-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "whatareyou.whatareyou-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I can do anything you program me to do, And i mean anything. i am capable of telling the time controlling any apps you sync with me, texting/calling people , and can even rap though i lack rhythm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

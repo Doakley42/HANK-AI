@@ -1,0 +1,33 @@
+{
+  "id": "44e53b75-85de-4537-9768-9fea9ac6d645",
+  "parentId": "560e84fa-00e3-4a35-99cf-e0d7c0d59b16",
+  "rootParentId": "b3dcf90b-f8fc-4cb5-8ada-5d0211888176",
+  "name": "startcovo.hi - custom - custom",
+  "auto": true,
+  "contexts": [
+    "startcovohi-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "startcovohi.startcovohi-custom.startcovohi-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Thats interesting why is that ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

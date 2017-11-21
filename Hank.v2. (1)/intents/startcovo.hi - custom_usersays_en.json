@@ -1,0 +1,41 @@
+[
+  {
+    "id": "6116ddcc-ec97-43e8-90f3-8c23240c8dc8",
+    "data": [
+      {
+        "text": "How do you be",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6fd8243d-d6ce-4fea-adab-12dc9699d9c2",
+    "data": [
+      {
+        "text": "How are you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3dc243da-ff72-4198-b4be-886b6739689c",
+    "data": [
+      {
+        "text": "How are you ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "5c8446ae-be16-45f5-a50b-9b4ab66adafc",
+  "name": "whatareyou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "whatareyou-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am Hank, A digital assistant developed by Andrew Oakley himself."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511220978,
+  "fallbackIntent": false,
+  "events": []
+}

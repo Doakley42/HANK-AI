@@ -1,0 +1,33 @@
+{
+  "id": "09649ef0-7ec3-4769-ae16-14b1bc6899d0",
+  "parentId": "7ae238b0-aeae-41cc-9cc1-fd21f190a78b",
+  "rootParentId": "7ae238b0-aeae-41cc-9cc1-fd21f190a78b",
+  "name": "Are you smart - yes",
+  "auto": true,
+  "contexts": [
+    "Areyousmart-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Areyousmart.Areyousmart-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Why thank you my good sir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124771,
+  "fallbackIntent": false,
+  "events": []
+}

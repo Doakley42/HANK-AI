@@ -1,0 +1,28 @@
+{
+  "id": "7eb666bc-460c-4185-a0d1-352be843eea4",
+  "name": "rap",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes but your pathetic human ears cannot comprehend my amazing musical talent."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511234068,
+  "fallbackIntent": false,
+  "events": []
+}

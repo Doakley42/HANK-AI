@@ -1,0 +1,39 @@
+{
+  "id": "8dc9c00b-92e7-4926-9006-782bc4399e7e",
+  "name": "jokes",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "jokes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "What did the DNA say to the other DNA?    Do these genes make my butt look fat.",
+            "What\u0027s the difference between a blonde and Windows 95?   The blonde operates on more laptops!",
+            "A few days after her husband\u0027s death, a grieving widow accidentally receives an e-mail from a man waiting for his wife in Miami. The e-mail reads: Dearest Wife, Just got checked in. Everything prepared for your arrival tomorrow. ps its hot down here",
+            "How do cows do mathematics?  They use a cow-culator."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511213741,
+  "fallbackIntent": false,
+  "events": []
+}

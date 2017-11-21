@@ -1,0 +1,36 @@
+{
+  "id": "336cbe61-20e6-4520-840c-43938c9025c4",
+  "parentId": "8dc9c00b-92e7-4926-9006-782bc4399e7e",
+  "rootParentId": "8dc9c00b-92e7-4926-9006-782bc4399e7e",
+  "name": "jokes - more",
+  "auto": true,
+  "contexts": [
+    "jokes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jokes.jokes-more",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Smart man + smart woman \u003d romance \n\nSmart man + dumb woman \u003d affair \n\nDumb man + smart woman \u003d marriage \n\nDumb man + dumb woman \u003d pregnancy",
+            "what do you do with a red hot chili pepper, you give it away give it away give it away now"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124777,
+  "fallbackIntent": false,
+  "events": []
+}

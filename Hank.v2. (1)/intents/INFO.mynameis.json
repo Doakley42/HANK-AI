@@ -1,0 +1,53 @@
+{
+  "id": "1d867607-12cd-455f-86b6-a6af29d70f60",
+  "name": "INFO.mynameis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "aec43a02-fd57-41c4-94e0-ad0137b82b07",
+          "required": false,
+          "dataType": "@Intro_mynameis",
+          "name": "Intro_mynameis",
+          "value": "$Intro_mynameis",
+          "isList": false
+        },
+        {
+          "id": "d2e37bd8-ddf6-47e0-badd-5239f7be0d02",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "1a62ee1d-a92d-4204-aad5-ebaf5d2815f5",
+          "required": false,
+          "dataType": "@sys.last-name",
+          "name": "last-name",
+          "value": "$last-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi $given-name! A pleasure to meet you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1511215789,
+  "fallbackIntent": false,
+  "events": []
+}

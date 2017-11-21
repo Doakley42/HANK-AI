@@ -1,0 +1,112 @@
+[
+  {
+    "id": "c2e40cd6-b515-487f-ae30-d680134d0f83",
+    "data": [
+      {
+        "text": "Not the greatest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "83379ba8-d7f8-4196-97b7-535d0e065a82",
+    "data": [
+      {
+        "text": "I am feeling okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "02ff9e86-a2f4-492c-86c7-9b5964f7d7a0",
+    "data": [
+      {
+        "text": "I am feeling bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ea12a2d-3562-42f2-988f-440c84220763",
+    "data": [
+      {
+        "text": "I am feeling good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "18f36642-2777-4fd1-bbc4-7facceb40fa6",
+    "data": [
+      {
+        "text": "mad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6103e2f2-5af4-42bb-8764-b0232043e418",
+    "data": [
+      {
+        "text": "happy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "93d57dbf-d1db-4282-8109-dc5b363b3cc8",
+    "data": [
+      {
+        "text": "sad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "67df0316-17ac-4940-bd3f-7c2cfbc045d9",
+    "data": [
+      {
+        "text": "okay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "fb2d78f2-a666-405c-b1e1-77c336beb708",
+    "data": [
+      {
+        "text": "bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5085e479-ed05-461d-b6cd-8539af6bb05f",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

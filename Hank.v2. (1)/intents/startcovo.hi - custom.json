@@ -1,0 +1,53 @@
+{
+  "id": "560e84fa-00e3-4a35-99cf-e0d7c0d59b16",
+  "parentId": "b3dcf90b-f8fc-4cb5-8ada-5d0211888176",
+  "rootParentId": "b3dcf90b-f8fc-4cb5-8ada-5d0211888176",
+  "name": "startcovo.hi - custom",
+  "auto": true,
+  "contexts": [
+    "startcovohi-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "startcovohi.startcovohi-custom",
+      "affectedContexts": [
+        {
+          "name": "startcovohi-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "34967819-0430-4993-ae37-312b5b4278fe",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "I am doing fine ,How are you today sir",
+            "I am Great thanks for asking",
+            "good, how about you",
+            "amazing, how are you"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": false,
+  "events": []
+}

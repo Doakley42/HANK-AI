@@ -1,0 +1,70 @@
+[
+  {
+    "id": "8eceedd8-e081-40b5-ad32-671c7a2742bb",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrew",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6b559bb5-4304-4f14-8923-e68753d4a119",
+    "data": [
+      {
+        "text": "I am ",
+        "userDefined": false
+      },
+      {
+        "text": "Andrew",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Oakley",
+        "alias": "last-name",
+        "meta": "@sys.last-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "452ae25c-f396-4186-92d1-a7c2021904b8",
+    "data": [
+      {
+        "text": "My name is",
+        "alias": "Intro_mynameis",
+        "meta": "@Intro_mynameis",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Drew",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1511215789
+  }
+]
